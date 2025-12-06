@@ -60,7 +60,7 @@ bmw-sales-data/
 ├── bmw_sales_data_encoded.csv       # Данные после one-hot кодирования
 ├── main.ipynb                       # Основной Jupyter Notebook с анализом
 ├── requirements.txt                 # Зависимости Python
-├── README.md                        # Документация (это файл)
+├── README.md                        # Документация 
 └── graphics/                        # Папка с сохранёнными графиками 
     └── box_plot.png                 # Диаграмма "ящик с усами" для Price_USD
     └── countplot.png                # Диаграмма countplot для Color и Model
